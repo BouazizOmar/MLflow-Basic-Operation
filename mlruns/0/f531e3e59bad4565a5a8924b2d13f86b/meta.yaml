@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Portable/OneDrive/Desktop/mlflow/mlruns/0/f531e3e59bad4565a5a8924b2d13f86b/artifacts
+end_time: 1724074823555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f531e3e59bad4565a5a8924b2d13f86b
+run_name: capricious-mink-201
+run_uuid: f531e3e59bad4565a5a8924b2d13f86b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724074820028
+status: 3
+tags: []
+user_id: Portable
